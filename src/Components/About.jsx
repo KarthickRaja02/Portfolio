@@ -19,14 +19,14 @@ const About = ({ leftHide, setLeftHide }) => {
         </div>
         <div className="col2" data-aos="fade-left">
           <h2 data-aos="fade-left">
-            LOGUNATHAN J<div className="hline"></div>
+            KARTHICK RAJA P<div className="hline"></div>
           </h2>
           <h3 id="role">SOFTWARE DEVELOPER</h3>
           <div className="description">
             Dynamic and versatile software developer with proficiency in HTML,
-            CSS, JavaScript, ReactJS, C, Java, Python, and SQL. Possessing a
+            CSS, Tailwind CSS, JavaScript, React JS, Node JS, Java, Mongo DB and MySQL. Possessing a
             solid foundation in computer science principles and programming
-            languages, I am adept at developing and implementing efficient
+            languages, I am an adept at developing and implementing efficient
             solutions to complex problems.
           </div>
           <Button />

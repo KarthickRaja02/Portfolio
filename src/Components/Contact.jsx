@@ -15,7 +15,7 @@ const Contact = () => {
           </p>
           <div className="links">
             <a
-              href="https://www.linkedin.com/in/logu-nj/"
+              href="https://www.linkedin.com/in/karthick-raja-756914217/"
               target="_blank"
               rel="noreferrer"
             >
@@ -34,7 +34,7 @@ const Contact = () => {
               </button>
             </a>
             <a
-              href="https://github.com/Logunathan007/"
+              href="https://github.com/KarthickRaja02"
               target="_blank"
               rel="noreferrer"
             >
@@ -53,7 +53,7 @@ const Contact = () => {
               </button>
             </a>
             <a
-              href="mailto:logulogu20032003@gmail.com"
+              href="mailto:karthickraja14911@gmail.com"
               target="_blank"
               rel="noreferrer"
             >

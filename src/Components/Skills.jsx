@@ -12,6 +12,10 @@ const Skills = () => {
       img:'css.png'
     },
     {
+      name:'Tailwind',
+      img:'tailwind_css.png'
+    },
+    {
       name:'JS',
       img:'js.png'
     },
@@ -20,24 +24,20 @@ const Skills = () => {
       img:'reactjs.png'
     },
     {
-      name:'C',
-      img:'c.png'
+      name:'NodeJS',
+      img:'nodejs.png'
     },
     {
-      name:'C++',
-      img:'c++.png'
+      name:'ExpressJS',
+      img:'express_js.png'
     },
     {
       name:'Java',
       img:'java.png'
     },
     {
-      name:'Python',
-      img:'python.png'
-    },
-    {
-      name:'Flask',
-      img:'flask.png'
+      name:'MongoDB',
+      img:'mongodb.png'
     },
     {
       name:'SQL',

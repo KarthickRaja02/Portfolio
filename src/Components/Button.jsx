@@ -57,7 +57,7 @@ const Button = () => {
     <div data-aos="flip-up" className="button button-wrapper">
       <a
         target="_blank"
-        href="https://drive.google.com/file/d/1-Dq_7oaVtA-kJWN7DXNLkejM2PdBa5VY/view?usp=sharing"
+        href="https://drive.google.com/file/d/1ioUnZ0bBVOszs5ewIBSvslOjFPO-zLSJ/view"
         rel="noreferrer"
       >
         <span>Click to View Resume 😂 :  </span>

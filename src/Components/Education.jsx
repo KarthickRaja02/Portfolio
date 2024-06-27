@@ -5,18 +5,18 @@ const Education = () => {
     {
       line1: "Karpagam Institute of Technology, Coimbatore",
       line2: "B. E. Electronics and Communication Engineering (2020 - 2024)",
-      line3: "CGPA : 8",
+      line3: "CGPA : 8.14",
     },
     {
-      line1: "N. S. Boys Hr. Sec. School, Theni",
+      line1: "Bhaarath Vidhya Bhavan Matric Higher Secondary School, Palani",
       line2: (
         <>
-          HSC (12<sup>th</sup> Std.) : 70%
+          HSC (12<sup>th</sup> Std.) : 81.5%
         </>
       ),
       line3: (
         <>
-          SSLC (10<sup>th</sup> Std.) : 75%
+          SSLC (10<sup>th</sup> Std.) : 92%
         </>
       ),
     },
